@@ -2,7 +2,7 @@
  Music Player
  
 ## Live Demo Link
-<a href="https://melihkocc.github.io/TimeCalculatingApp/">Demo Link</a>
+<a href="https://melihkocc.github.io/MusicPlayerProject/">Demo Link</a>
 
 ## Technologies
 · HTML<br>
